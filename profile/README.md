@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MienainetFramework">
-    <img src="logo.png" alt="Logo" width="300" height="100">
+    <img src="logo.png" alt="Logo" width="300" height="200">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
