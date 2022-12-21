@@ -11,5 +11,3 @@
    An Command and Control Framework Research Projects with the goal to help understanding complex attacks and how to prevent them
   </p>
 </div>
-
-
